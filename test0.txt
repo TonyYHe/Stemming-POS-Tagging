@@ -1,0 +1,17 @@
+$allocate
+vt
+#0allocated1allocated2allocating
+$sell
+vt vi n
+#0sold1sold2selling3sells
+$she
+n pron
+#3they
+$the
+art
+#
+$zebra
+n
+#3zebra
+**********
+she sells seashells

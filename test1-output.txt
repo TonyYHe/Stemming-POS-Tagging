@@ -1,0 +1,13 @@
+==========================Stage 1==========================
+Word 0: abcdefghijklmnopqrstuv
+POS: vi
+Form: 0abcdefghijklmnopqrstuved1abcdefghijklmnopqrstuved2abcdefghijklmnopqrstuving
+==========================Stage 2==========================
+Number of words: 1
+Average number of variation forms per word: 3.00
+==========================Stage 3==========================
+she                       NOT_FOUND
+she                       NOT_FOUND
+==========================Stage 4==========================
+she                       she                       NOT_FOUND
+she                       she                       NOT_FOUND

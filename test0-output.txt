@@ -1,0 +1,15 @@
+==========================Stage 1==========================
+Word 0: allocate
+POS: vt
+Form: 0allocated1allocated2allocating
+==========================Stage 2==========================
+Number of words: 5
+Average number of variation forms per word: 1.80
+==========================Stage 3==========================
+she                       n pron
+sells                     NOT_FOUND
+seashells                 NOT_FOUND
+==========================Stage 4==========================
+she                       she                       n pron
+sells                     sell                      vt vi n
+seashells                 seashells                 NOT_FOUND
